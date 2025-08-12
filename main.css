@@ -9,6 +9,10 @@
   --text: #4caf4f;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 * {
   margin: 0;
   padding: 0;
