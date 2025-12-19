@@ -24,6 +24,11 @@
 หากคุณต้องการสำเนาของโปรเจกต์นี้เพื่อตรวจสอบโค้ด:
 
 ```bash
-git clone [https://github.com/phraewchuthamat/Minimal-LanddingPage.git](https://github.com/phraewchuthamat/Minimal-LanddingPage.git)
+git clone https://github.com/phraewchuthamat/Minimal-LanddingPage.git
+```
+
+```bash
 cd Minimal-LanddingPage
-# เปิดไฟล์ index.html ในเบราว์เซอร์ของคุณ
+```
+
+เปิดไฟล์ index.html ในเบราว์เซอร์ของคุณ
